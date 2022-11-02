@@ -1,0 +1,4 @@
+rmi\produit.class
+rmi\ProduitInterface.class
+sn\ipsl\projet_appdistr\ServerRMI.class
+rmi\RMIService.class
